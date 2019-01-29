@@ -1,0 +1,15 @@
+body{
+  background-image:url("AME20181113A013_TP_V4.jpg");
+  background-size:cover;
+}
+.top-wrapper{
+  text-align: center;
+}
+.top-wrapper h1{
+  font-size: 60px;
+  font-weight: normal;
+  color:white;
+}
+.top-wrapper p{
+  color:white;
+}
